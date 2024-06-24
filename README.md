@@ -9,7 +9,6 @@ This repository contains the comprehensive baseline assessment analysis of Prima
 - **Recommendations:** Strategic recommendations for improving the functionality and efficiency of PHCs in Edo State.
 
 **Tools and Technologies:**
-- **Data Collection:** Kobo Collect
 - **Data Analysis:** Power BI
 - **Other Tools:** Excel for preliminary data organization
 
